@@ -1,5 +1,5 @@
 # webhook-write
 
 -Run write.exe
--Insert your webhook
+-Insert your Discord Webhook
 -Enjoy!
