@@ -1,5 +1,5 @@
 # webhook-write
 
--Run webhook.exe
+-Run write.exe
 -Insert your webhook
 -Enjoy!
